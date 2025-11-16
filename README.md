@@ -34,7 +34,7 @@ It allows users to explore movies, choose preferred seats, and book tickets onli
 | **Database** | MongoDB |
 | **Authentication** | Clerk |
 | **Email & Background Jobs** | Inngest |
-| **Payment System** | (e.g., Stripe / Razorpay / PayPal – mention whichever you used) |
+| **Payment System** | Stripe 
 
 ---
 
